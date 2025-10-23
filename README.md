@@ -73,9 +73,8 @@ If you find anything that could improve this repository — whether it’s a bet
 
 ## 🧠 Stay Connected
 You can connect with me for discussions, collaborations, or just to talk about ML and coding!  
-📬 **Email:** [your.email@example.com]  
-💼 **LinkedIn:** [Your LinkedIn Profile]  
-🐦 **Twitter/X:** [Your Twitter Handle]  
+📬 **Email:** [keshavcodes0@gmail.com]  
+🐦 **Twitter/X:** [https://x.com/_keshav2008_]  
 
 ---
 
