@@ -14,40 +14,6 @@ This repository is a structured learning journey through machine learning and da
 - **Machine Learning Algorithms** - Supervised and unsupervised learning techniques
 - **Real-world Projects** - End-to-end ML projects with practical applications
 
-## 📁 Repository Structure
-
-```
-Machine-Learning/
-├── Python/                          # Python fundamentals and scripting
-│   ├── basics/                      # Variables, data types, control flow
-│   ├── functions/                   # Function definition and usage
-│   ├── oop/                         # Object-oriented programming
-│   └── problem_solving/             # LeetCode & DSA problems
-│
-├── Libraries/                       # Essential Python libraries for ML
-│   ├── Numpy/                       # Numerical computing & arrays
-│   │   ├── array_operations.py
-│   │   ├── linear_algebra.py
-│   │   └── statistics.py
-│   │
-│   ├── Pandas/                      # Data manipulation & analysis
-│   │   ├── dataframe_basics.py
-│   │   ├── data_cleaning.py
-│   │   ├── exploratory_data_analysis.py
-│   │   └── data_aggregation.py
-│   │
-│   └── Matplotlib/                  # Data visualization
-│       ├── basic_plots.py
-│       ├── advanced_plots.py
-│       ├── plotting_techniques.py
-│       └── seaborn_integration.py
-│
-└── Projects/                        # End-to-end ML projects (Coming soon)
-    ├── iris_classification/
-    ├── house_price_prediction/
-    └── customer_segmentation/
-```
-
 ## 🚀 Quick Start
 
 ### Prerequisites
@@ -165,8 +131,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 👨‍💻 About Me
 
 - **Name**: Keshav Chetri
-- **Education**: BCA Student @ Digboi College
-- **Interests**: Full-stack Web Development, Data Science, Competitive Programming
+- **Education**: BSC student(CS)
+- **Interests**: Full-stack Web Development, Data Science
 - **GitHub**: [@Keshavcodes3](https://github.com/Keshavcodes3)
 
 ## 📧 Get in Touch
